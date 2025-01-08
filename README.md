@@ -1,7 +1,6 @@
 # ⭐ Coding-Challenges
 알고리즘 문제 풀이 기록 
 
----
 ## 📌 백준 
 #### 수학
 - [10430 (나머지)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/10430%EB%B2%88%20(%EB%82%98%EB%A8%B8%EC%A7%80).md)
@@ -12,6 +11,6 @@
 #### DP
 - [2293 (동전1)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2293%EB%B2%88%20(%EB%8F%99%EC%A0%84%201).md)
 
----
+
 ## 📌 프로그래머스
 - [폰켓몬](https://github.com/M1nKyu/Coding-Challenges/blob/main/Programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.md)
