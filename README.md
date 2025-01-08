@@ -6,6 +6,7 @@
 #### 수학
 - [10430 (나머지)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/10430%EB%B2%88%20(%EB%82%98%EB%A8%B8%EC%A7%80).md)
 - [23971 (ZOAC 4)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/23971%EB%B2%88%20(ZOAC%204).md)
+- [1037 (약수)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/1037%EB%B2%88%20(%EC%95%BD%EC%88%98).md)
 #### 그래프
 - [1260 (DFS와 BFS)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EA%B7%B8%EB%9E%98%ED%94%84/1260%EB%B2%88%20(DFS%EC%99%80%20BFS).md)
 #### DP
@@ -13,3 +14,4 @@
 
 ---
 ## 📌 프로그래머스
+- [폰켓몬](https://github.com/M1nKyu/Coding-Challenges/blob/main/Programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.md)
