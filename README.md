@@ -6,8 +6,8 @@
 - 🍪 [10430 (나머지)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/10430%EB%B2%88%20(%EB%82%98%EB%A8%B8%EC%A7%80).md)
 - 🍪 [23971 (ZOAC 4)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/23971%EB%B2%88%20(ZOAC%204).md)
 - 🍪 [1037 (약수)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/1037%EB%B2%88%20(%EC%95%BD%EC%88%98).md)
-- 🍪 [17427 (약수의합)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17427%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9%202).md)
-- 🍪 [17425 (약수의합2)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17425%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9).md)
+- 🍪 [17427 (약수의합2)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17427%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9%202).md)
+- 🍪 [17425 (약수의합)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17425%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9).md)
 
 ### 그래프
 - 🍪 [1260 (DFS와 BFS)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EA%B7%B8%EB%9E%98%ED%94%84/1260%EB%B2%88%20(DFS%EC%99%80%20BFS).md)
