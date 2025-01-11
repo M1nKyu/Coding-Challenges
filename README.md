@@ -8,7 +8,7 @@
 - 🍪 [1037 (약수)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/1037%EB%B2%88%20(%EC%95%BD%EC%88%98).md)
 - 🍪 [17427 (약수의합2)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17427%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9%202).md)
 - 🍪 [17425 (약수의합)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17425%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9).md)
-- 🍪 [최대공약수와 최소공배수](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/2609%EB%B2%88%20(%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EB%B0%B0%EC%88%98)%20%E2%98%85.md)
+- 🍪 [2609 (최대공약수와 최소공배수 ★)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/2609%EB%B2%88%20(%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EB%B0%B0%EC%88%98)%20%E2%98%85.md)
 
 ### 그래프
 - 🍪 [1260 (DFS와 BFS)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EA%B7%B8%EB%9E%98%ED%94%84/1260%EB%B2%88%20(DFS%EC%99%80%20BFS).md)
