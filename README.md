@@ -10,6 +10,7 @@
 - 🍪 [17425 (약수의합)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17425%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9).md)
 - 🍪 [2609 (최대공약수와 최소공배수)★](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/2609%EB%B2%88%20(%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EB%B0%B0%EC%88%98)%20%E2%98%85.md)
 - 🍪 [1978 (소수 찾기)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/1978%EB%B2%88%20(%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0).md)
+- 🍪 [1929 (소수 구하기)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/1929%EB%B2%88%20(%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0).md)
 
 ### 그래프
 - 🍪 [1260 (DFS와 BFS)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EA%B7%B8%EB%9E%98%ED%94%84/1260%EB%B2%88%20(DFS%EC%99%80%20BFS).md)
