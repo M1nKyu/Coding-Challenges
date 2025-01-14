@@ -11,6 +11,7 @@
 - 🍪 [2609 (최대공약수와 최소공배수)★](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/2609%EB%B2%88%20(%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EB%8C%80%EA%B3%B5%EB%B0%B0%EC%88%98)%20%E2%98%85.md)
 - 🍪 [1978 (소수 찾기)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/1978%EB%B2%88%20(%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0).md)
 - 🍪 [1929 (소수 구하기)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/1929%EB%B2%88%20(%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0).md)
+- 🍪 [6588 (골든바흐의 추측)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/6588%EB%B2%88%20(%EA%B3%A8%EB%93%A0%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1).md)
 
 ### 그래프
 - 🍪 [1260 (DFS와 BFS)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EA%B7%B8%EB%9E%98%ED%94%84/1260%EB%B2%88%20(DFS%EC%99%80%20BFS).md)
