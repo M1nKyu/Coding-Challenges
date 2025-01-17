@@ -15,6 +15,8 @@
 
 ### 브루트 포스
 - 🍪 [2309 (일곱 난쟁이)★](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/2309%EB%B2%88%20(%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4).md)
+- 🍪 [1476 (날짜 계산)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1476%EB%B2%88%20(%EB%82%A0%EC%A7%9C%20%EA%B3%84%EC%82%B0).md)
+- 🍪 [1107 (리모컨)★](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1107%EB%B2%88%20(%EB%A6%AC%EB%AA%A8%EC%BB%A8).md)
 
 ### 그래프
 - 🍪 [1260 (DFS와 BFS)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EA%B7%B8%EB%9E%98%ED%94%84/1260%EB%B2%88%20(DFS%EC%99%80%20BFS).md)
