@@ -15,6 +15,7 @@
 | **수학** | 1929 | 소수 구하기 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/1929%EB%B2%88%20(%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0).md) |
 | **수학** | 6588 | 골든바흐의 추측 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/6588%EB%B2%88%20(%EA%B3%A8%EB%93%A0%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1).md) |
 | **브루트 포스** | 2309 | 일곱 난쟁이 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/2309%EB%B2%88%20(%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4).md) |
+| **브루트 포스** | 3085 | 사탕 게임 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/3085%EB%B2%88%20(%EC%82%AC%ED%83%95%20%EA%B2%8C%EC%9E%84).md) |
 | **브루트 포스** | 1476 | 날짜 계산 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1476%EB%B2%88%20(%EB%82%A0%EC%A7%9C%20%EA%B3%84%EC%82%B0).md) |
 | **브루트 포스** | 1107 | 리모컨 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1107%EB%B2%88%20(%EB%A6%AC%EB%AA%A8%EC%BB%A8).md) |
 | **브루트 포스** | 14500 | 테트로미노 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/14500%EB%B2%88%20(%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)%20%E2%98%85%E2%98%85.md) |
