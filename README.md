@@ -20,6 +20,7 @@
 - 🍪 [1107 (리모컨)★](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1107%EB%B2%88%20(%EB%A6%AC%EB%AA%A8%EC%BB%A8).md)
 - 🍪 [14500 (테트로미노) ★★](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/14500%EB%B2%88%20(%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)%20%E2%98%85%E2%98%85.md)
 - 🍪[6064 (카잉 달력) ★](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/6064%EB%B2%88%20(%EC%B9%B4%EC%9E%89%20%EB%8B%AC%EB%A0%A5)%20%E2%98%85.md)
+- 🍪 [1748 (수 이어쓰기 1)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1748%EB%B2%88%20(%EC%88%98%20%EC%9D%B4%EC%96%B4%20%EC%93%B0%EA%B8%B01).md)
 
 ### 그래프
 - 🍪 [1260 (DFS와 BFS)](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EA%B7%B8%EB%9E%98%ED%94%84/1260%EB%B2%88%20(DFS%EC%99%80%20BFS).md)
