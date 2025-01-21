@@ -7,6 +7,7 @@
 | --- | --- | --- | --- |
 | **수학** | 10430 | 나머지 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/10430%EB%B2%88%20(%EB%82%98%EB%A8%B8%EC%A7%80).md) |
 | **수학** | 23971 | ZOAC 4 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/23971%EB%B2%88%20(ZOAC%204).md) |
+| **수학** | 4375 | 1 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/4375%EB%B2%88%20(1).md) |
 | **수학** | 1037 | 약수 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/1037%EB%B2%88%20(%EC%95%BD%EC%88%98).md) |
 | **수학** | 17427 | 약수의합2 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17427%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9%202).md) |
 | **수학** | 17425 | 약수의합 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17425%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9).md) |
