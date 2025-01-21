@@ -28,7 +28,7 @@
 ## 📌 프로그래머스
 | 카테고리 | 문제 이름 | 링크 |
 | --- | --- | --- |
-|ㅇ|폰켓몬|[링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.md)|
+|해시|폰켓몬|[링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Programmers/%ED%8F%B0%EC%BC%93%EB%AA%AC.md)|
 
 <br><br>
 
