@@ -7,6 +7,7 @@
 | --- | --- | --- | --- |
 | **수학** | 10430 | 나머지 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/10430%EB%B2%88%20(%EB%82%98%EB%A8%B8%EC%A7%80).md) |
 | **수학** | 23971 | ZOAC 4 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/23971%EB%B2%88%20(ZOAC%204).md) |
+| **수학** | 4375 | 1 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/4375%EB%B2%88%20(1).md) |
 | **수학** | 1037 | 약수 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/1037%EB%B2%88%20(%EC%95%BD%EC%88%98).md) |
 | **수학** | 17427 | 약수의합2 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17427%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9%202).md) |
 | **수학** | 17425 | 약수의합 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/17425%EB%B2%88%20(%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9).md) |
@@ -19,7 +20,7 @@
 | **브루트 포스** | 1476 | 날짜 계산 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1476%EB%B2%88%20(%EB%82%A0%EC%A7%9C%20%EA%B3%84%EC%82%B0).md) |
 | **브루트 포스** | 1107 | 리모컨 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1107%EB%B2%88%20(%EB%A6%AC%EB%AA%A8%EC%BB%A8).md) |
 | **브루트 포스** | 14500 | 테트로미노 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/14500%EB%B2%88%20(%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8)%20%E2%98%85%E2%98%85.md) |
-| **브루트 포스** | 6064 | 카잉 달력 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/6064%EB%B2%88%20(%EC%B9%B4%EC%9E%87%20%EB%8B%AC%EB%A0%A5).md) |
+| **브루트 포스** | 6064 | 카잉 달력 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/6064%EB%B2%88%20(%EC%B9%B4%EC%9E%89%20%EB%8B%AC%EB%A0%A5)%20%E2%98%85.md) |
 | **브루트 포스** | 1748 | 수 이어쓰기 1 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1748%EB%B2%88%20(%EC%88%98%20%EC%9D%B4%EC%96%B4%20%EC%93%B0%EA%B8%B01).md) |
 | **그래프** | 1260 | DFS와 BFS | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2293%EB%B2%88%20(%EB%8F%99%EC%A0%84%201).md) |
 | **DP** | 2293 | 동전 1 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2293%EB%B2%88%20(%EB%8F%99%EC%A0%84%201).md) |
