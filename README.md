@@ -25,6 +25,7 @@
 | **그래프** | 1260 | DFS와 BFS | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2293%EB%B2%88%20(%EB%8F%99%EC%A0%84%201).md) |
 | **DP** | 2293 | 동전 1 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2293%EB%B2%88%20(%EB%8F%99%EC%A0%84%201).md) |
 | **DP** | 9095 | 1,2,3 더하기 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/9095%EB%B2%88%20(1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0)%20%E2%98%85.md) |
+| **백트래킹** | 15649 | N과M (1) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15649%EB%B2%88%20(N%EA%B3%BCM%20(1))%20%E2%98%85.md) |
 
 
 
