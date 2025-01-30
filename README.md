@@ -28,6 +28,8 @@
 | **백트래킹** | 15649 | N과 M(1) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15649%EB%B2%88%20(N%EA%B3%BCM%20(1))%20%E2%98%85.md) |
 | **백트래킹** | 15650 | N과 M(2) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15650%EB%B2%88%20(N%EA%B3%BC%20M(2))%20%E2%98%85.md) |
 | **백트래킹** | 15651 | N과 M(3) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15651%EB%B2%88%20(N%EA%B3%BC%20M(3)).md) |
+| **백트래킹** | 15652 | N과 M(4) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15652%EB%B2%88%20(N%EA%B3%BC%20M(4)).md) |
+| **** |  |  | [링크]() |
 | **** |  |  | [링크]() |
 
 
