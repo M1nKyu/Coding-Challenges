@@ -33,8 +33,8 @@
 | **백트래킹** | 15655 | N과 M(6) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15655%EB%B2%88%20(N%EA%B3%BC%20M(6)).md) |
 | **백트래킹** | 15656 | N과 M(7) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15656%EB%B2%88%20(N%EA%B3%BC%20M(7)).md) |
 | **백트래킹** | 15657 | N과 M(8) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15657%EB%B2%88%20(N%EA%B3%BC%20M(8)).md) |
-
-| **** |  |  | [링크]() |
+| **백트래** | 8290 | NM과 K (1) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/18290%EB%B2%88%20(NM%EA%B3%BC%20K%20(1))%20%E2%98%85%E2%98%85%E2%98%85.md) |
+| **백트래킹** | 1759 | 암호 만들기 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1759%EB%B2%88%20(%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0).md) |
 | **** |  |  | [링크]() |
 
 
