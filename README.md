@@ -35,6 +35,8 @@
 | **백트래킹** | 15657 | N과 M(8) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/15657%EB%B2%88%20(N%EA%B3%BC%20M(8)).md) |
 | **백트래** | 8290 | NM과 K (1) | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/18290%EB%B2%88%20(NM%EA%B3%BC%20K%20(1))%20%E2%98%85%E2%98%85%E2%98%85.md) |
 | **백트래킹** | 1759 | 암호 만들기 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1759%EB%B2%88%20(%EC%95%94%ED%98%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0).md) |
+| **DP** | 14501 | 퇴사 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/14501%EB%B2%88%20(%ED%87%B4%EC%82%AC)%20%E2%98%85%E2%98%85.md) |
+| **** |  |  | [링크]() |
 | **** |  |  | [링크]() |
 
 
