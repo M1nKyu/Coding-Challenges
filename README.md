@@ -38,7 +38,7 @@
 | **DP** | 14501 | 퇴사 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/14501%EB%B2%88%20(%ED%87%B4%EC%82%AC)%20%E2%98%85%E2%98%85.md) |
 | **백트래킹** | 14889 | 스타트와 링크 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/14889%EB%B2%88%20(%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC).md) |
 | **백트래킹** | 2529 | 부등호 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/2529%EB%B2%88%20(%EB%B6%80%EB%93%B1%ED%98%B8).md) |
-| **** |  |  | [링크]() |
+| **수학** | 10972 | 다음 순열 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/10972%EB%B2%88%20(%EB%8B%A4%EC%9D%8C%20%EC%88%9C%EC%97%B4)%20%E2%98%85.md) |
 | **** |  |  | [링크]() |
 | **** |  |  | [링크]() |
 
