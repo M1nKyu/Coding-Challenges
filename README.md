@@ -1,4 +1,4 @@
-# ⭐ Coding-Challenges
+# ⭐ Coding-Challenges 
 > 알고리즘 문제 풀이 및 정리 노트 저장소 
 
 ## 📌 백준 
@@ -41,7 +41,7 @@
 | **수학** | 10972 | 다음 순열 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/10972%EB%B2%88%20(%EB%8B%A4%EC%9D%8C%20%EC%88%9C%EC%97%B4)%20%E2%98%85.md) |
 | **수학** | 10973 | 이전 순열 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/10973%EB%B2%88%20(%EC%9D%B4%EC%A0%84%20%EC%88%98%EC%97%B4).md) |
 | **수학** | 10974 | 모든 순열 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EC%88%98%ED%95%99/10974%EB%B2%88%20(%EB%AA%A8%EB%93%A0%20%EC%88%98%EC%97%B4).md) |
-| **** |  |  | [링크]() |
+| **백트래킹** | 10819 | 차이를 최대로 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/10819%EB%B2%88%20(%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C).md) |
 | **** |  |  | [링크]() |
 
 
@@ -63,6 +63,8 @@
 |시간 포맷 변경하기|[링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Etc/%EC%8B%9C%EA%B0%84%20%ED%8F%AC%EB%A7%B7%20%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0.md)|
 |최댓값의 인덱스와 값 출력|[링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Etc/%EC%A0%95%EC%88%98%20%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%20%EC%B5%9C%EB%8C%93%EA%B0%92%EC%9D%98%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%99%80%20%EA%B0%92%20%EC%B6%9C%EB%A0%A5.md)|
 |몇일전, 몇시간 전, 몇 분전에 작성됐는지 표기|[링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Etc/%EB%AA%87%EC%8B%9C%EA%B0%84%20%EC%A0%84%EC%97%90%20%EC%9E%91%EC%84%B1%EB%90%90%EB%8A%94%EC%A7%80%20%ED%91%9C%EA%B8%B0%ED%95%98%EB%8A%94%20%EA%B8%B0%EB%8A%A5%20%E2%98%85.md)|
+
+
 
 
 
