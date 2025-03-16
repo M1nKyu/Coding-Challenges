@@ -44,7 +44,10 @@
 | **백트래킹** | 10819 | 차이를 최대로 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/10819%EB%B2%88%20(%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%B5%9C%EB%8C%80%EB%A1%9C).md) |
 | **백트래킹** | 10971 | 외판원 순회 2 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/10971%EB%B2%88%20(%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C%202)%20%E2%98%85.md) |
 | **백트래킹** | 6603 | 로또 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/6603%EB%B2%88%20(%EB%A1%9C%EB%98%90).md) |
+| **DP** | 1463 | 1로 만들기 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1463%EB%B2%88%20(1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0).md) |
 | **** |  |  | [링크]() |
+| **** |  |  | [링크]() |
+
 
 
 
