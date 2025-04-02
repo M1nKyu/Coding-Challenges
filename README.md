@@ -47,8 +47,11 @@
 | **DP** | 1463 | 1로 만들기 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1463%EB%B2%88%20(1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0).md) |
 | **DP** | 11726 | 2xn 타일링 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/11726%EB%B2%88%20(2xn%20%ED%83%80%EC%9D%BC%EB%A7%81).md) |
 | **DP** | 2133 | 타일 채우기 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2133%EB%B2%88%20(%ED%83%80%EC%9D%BC%20%EC%B1%84%EC%9A%B0%EA%B8%B0).md) |
+| **백트래킹** | 9663 | N-Queen | [링크](https://github.com/M1nKyu/Coding-Challenges/commit/75f9f540d91e4c33bcb9903bbb0b127f13111428) |
 | **** |  |  | [링크]() |
 | **** |  |  | [링크]() |
+| **** |  |  | [링크]() |
+
 
 
 
