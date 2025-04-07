@@ -48,7 +48,7 @@
 | **DP** | 11726 | 2xn 타일링 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/11726%EB%B2%88%20(2xn%20%ED%83%80%EC%9D%BC%EB%A7%81).md) |
 | **DP** | 2133 | 타일 채우기 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2133%EB%B2%88%20(%ED%83%80%EC%9D%BC%20%EC%B1%84%EC%9A%B0%EA%B8%B0).md) |
 | **백트래킹** | 9663 | N-Queen | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/9663%EB%B2%88%20(N-Queen)%20%E2%98%85.md) |
-| **** |  |  | [링크]() |
+| **브루트포스** | 1339 | 단어 수학 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4/1339%EB%B2%88%20(%EB%8B%A8%EC%96%B4%20%EC%88%98%ED%95%99)%20%E2%98%85.md) |
 | **** |  |  | [링크]() |
 | **** |  |  | [링크]() |
 
