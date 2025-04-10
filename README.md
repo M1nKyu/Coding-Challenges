@@ -52,6 +52,7 @@
 | **백트래킹** | 1182 | 부분수열의 합 | [링크](https://github.com/M1nKyu/Coding-Challenges/blob/main/Baekjoon/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/1182%EB%B2%88%20(%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9).md) |
 | **** |  |  | [링크]() |
 | **** |  |  | [링크]() |
+| **** |  |  | [링크]() |
 
 
 
